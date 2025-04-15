@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, Soy Kevin Yuvi</h1>
+<h1 align="center">Hola👋, Me llamo Kevin Yuvi</h1>
 <h3 align="center">Estudiante de la Carrera de Ingeniera en Sistemas en la Universidad Central del Ecuador</h3>
 
 - 📫 How to reach me **kevinyuviuce@gmail.com**
