@@ -7,7 +7,6 @@
 Me interesa el desarrollo de software, las bases de datos y el aprendizaje constante de nuevas herramientas tecnológicas.
 </p>
 
----
 
 ## Sobre mí
 
@@ -15,7 +14,6 @@ Soy estudiante de Ingeniería en Sistemas. Actualmente estoy fortaleciendo mis c
 
 📫 Contacto: **kevinyuviuce@gmail.com**
 
----
 
 ## Conecta conmigo
 
@@ -30,7 +28,6 @@ Soy estudiante de Ingeniería en Sistemas. Actualmente estoy fortaleciendo mis c
   </a>
 </p>
 
----
 
 ## Insignias de Credly 🏅
 
@@ -40,7 +37,6 @@ Soy estudiante de Ingeniería en Sistemas. Actualmente estoy fortaleciendo mis c
 [![AI Skills Fest 2026](https://images.credly.com/size/80x80/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/6ee87edc-e212-462a-a9b3-014215ba611b)
 <!--END_SECTION:badges-->
 
----
 
 ## Lenguajes y herramientas
 
