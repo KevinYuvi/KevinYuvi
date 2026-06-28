@@ -3,8 +3,10 @@
 
 - 📫 How to reach me **kevinyuviuce@gmail.com**
 
-<!-- START_SECTION:badges -->
-<!-- END_SECTION:badges -->
+## Insignias de Credly
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
