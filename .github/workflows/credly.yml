@@ -6,7 +6,7 @@ on:
   workflow_dispatch: # Permite ejecución manual
 
 permissions:
-  contents: write # Otorga permiso explícito para editar tu README
+  contents: write # Permiso explícito para modificar archivos del repositorio
 
 jobs:
   update-badges:
@@ -16,7 +16,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Actualizar README con Credly
-        uses: pemtajo/badge-readme@main # Nombre de acción corregido
+        uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: "kevin-daniel-yuvi-chamorro" # Reemplaza con tu usuario exacto de Credly
-          NUMBER_LAST_BADGES: 0 # Muestra todas tus insignias (usa un número si quieres limitarlas)
+          CREDLY_USER: "kevin-daniel-yuvi-chamorro" # Asegúrate de que este sea tu usuario real
+          NUMBER_LAST_BADGES: 0
+
+      - name: Guardar y subir cambios a GitHub
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@://github.com'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Bot: Actualización de insignias Credly" && git push)
