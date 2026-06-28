@@ -3,8 +3,8 @@
 
 - 📫 How to reach me **kevinyuviuce@gmail.com**
 
-<!-- CREDLY_BADGES:START -->
-<!-- CREDLY_BADGES:END -->
+<!-- START_SECTION:badges-->
+<!-- END_SECTION:badges-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
