@@ -2,29 +2,20 @@ name: Actualizar Insignias de Credly
 
 on:
   schedule:
-    - cron: '0 2 * * *' # Corre automáticamente todos los días
-  workflow_dispatch: # Permite ejecución manual rápida
-
-permissions:
-  contents: write # Permiso para guardar cambios en el repositorio
+    - cron: "0 2 * * *"
+  workflow_dispatch:
 
 jobs:
   update-badges:
     name: Update README with Credly Badges
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout del repositorio
-        uses: actions/checkout@v4
 
+    permissions:
+      contents: write
+
+    steps:
       - name: Actualizar README con Credly
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: "kevin-daniel-yuvi-chamorro"
           NUMBER_LAST_BADGES: 0
-
-      - name: Guardar y subir cambios a GitHub
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Bot: Sincronización de insignias de Credly" && git push)
