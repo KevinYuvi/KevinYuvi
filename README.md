@@ -6,6 +6,9 @@
 ## Insignias de Credly
 
 <!--START_SECTION:badges-->
+[![From Relational Model (SQL) to MongoDB's Document Model](https://images.credly.com/size/80x80/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob)](https://www.credly.com/badges/055330af-d11c-435e-a59c-62a96203ab35)
+[![MongoDB Overview: Core Concepts and Architecture](https://images.credly.com/size/80x80/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob)](https://www.credly.com/badges/594dd3b7-9f00-4667-82f9-db7126de90cb)
+[![AI Skills Fest 2026](https://images.credly.com/size/80x80/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/6ee87edc-e212-462a-a9b3-014215ba611b)
 <!--END_SECTION:badges-->
 
 <h3 align="left">Connect with me:</h3>
