@@ -29,7 +29,7 @@ Soy estudiante de Ingeniería en Sistemas. Actualmente estoy fortaleciendo mis c
 </p>
 
 
-## Insignias de Credly 🏅
+## Insignias de Credly
 
 <!--START_SECTION:badges-->
 [![From Relational Model (SQL) to MongoDB's Document Model](https://images.credly.com/size/80x80/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob)](https://www.credly.com/badges/055330af-d11c-435e-a59c-62a96203ab35)
