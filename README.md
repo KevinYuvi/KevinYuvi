@@ -32,18 +32,10 @@ Soy estudiante de Ingeniería en Sistemas. Actualmente estoy fortaleciendo mis c
 ## Insignias de Credly
 
 <!--START_SECTION:badges-->
-<a href="https://www.credly.com/badges/d5ab503d-8e3f-4f4d-a618-00d8399e3a8c">
-  <img src="https://images.credly.com/size/80x80/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" alt="CRUD Operations in MongoDB" width="80" height="80" />
-</a>
-<a href="https://www.credly.com/badges/055330af-d11c-435e-a59c-62a96203ab35">
-  <img src="https://images.credly.com/size/80x80/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" alt="From Relational Model (SQL) to MongoDBs Document Model" width="80" height="80" />
-</a>
-<a href="https://www.credly.com/badges/594dd3b7-9f00-4667-82f9-db7126de90cb">
-  <img src="https://images.credly.com/size/80x80/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob" alt="MongoDB Overview: Core Concepts and Architecture" width="80" height="80" />
-</a>
-<a href="https://www.credly.com/badges/6ee87edc-e212-462a-a9b3-014215ba611b">
-  <img src="https://images.credly.com/size/80x80/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="AI Skills Fest 2026" width="80" height="80" />
-</a>
+[![CRUD Operations in MongoDB](https://images.credly.com/size/80x80/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob)](https://www.credly.com/badges/d5ab503d-8e3f-4f4d-a618-00d8399e3a8c)
+[![From Relational Model (SQL) to MongoDBs Document Model](https://images.credly.com/size/80x80/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob)](https://www.credly.com/badges/055330af-d11c-435e-a59c-62a96203ab35)
+[![MongoDB Overview: Core Concepts and Architecture](https://images.credly.com/size/80x80/images/0b4c54ef-b1d8-4aa7-a658-230b74dec7f6/blob)](https://www.credly.com/badges/594dd3b7-9f00-4667-82f9-db7126de90cb)
+[![AI Skills Fest 2026](https://images.credly.com/size/80x80/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob)](https://www.credly.com/badges/6ee87edc-e212-462a-a9b3-014215ba611b)
 <!--END_SECTION:badges-->
 
 ## Lenguajes y herramientas
